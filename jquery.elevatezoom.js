@@ -1,5 +1,7 @@
 /*
  * This is a modification of jQuery elevateZoom 3.0.8
+ * https://github.com/Rezonans/elevatezoom
+ *
  * Demo's and documentation for original library:
  * www.elevateweb.co.uk/image-zoom
  *
@@ -7,31 +9,13 @@
  * You can now apply elevateZoom for images, rotated by 90, 180 and 270 degrees via css transform, end it will work correctly with them.
  * On the other hand, support of all zoomTypes, except 'window' ('lens' and 'inner') were removed.
  * There is also code style improvements in comparison with original (fixed tabs, spaces, line breaks, removed needless empty and commented lines).
- */
-
-/*
- *	jQuery elevateZoom 3.0.8
- *	Demo's and documentation:
- *	www.elevateweb.co.uk/image-zoom
  *
- *	Copyright (c) 2012 Andrew Eades
- *	www.elevateweb.co.uk
+ * Copyright (c) 2012 Andrew Eades
+ * www.elevateweb.co.uk
  *
- *	Dual licensed under the GPL and MIT licenses.
- *	http://en.wikipedia.org/wiki/MIT_License
- *	http://en.wikipedia.org/wiki/GNU_General_Public_License
- *
- *
- *	jQuery elevateZoom 3.0.3
- *	Demo's and documentation:
- *	www.elevateweb.co.uk/image-zoom
- *
- *	Copyright (c) 2012 Andrew Eades
- *	www.elevateweb.co.uk
- *
- *  Dual licensed under the GPL and MIT licenses.
- *	http://en.wikipedia.org/wiki/MIT_License
- *	http://en.wikipedia.org/wiki/GNU_General_Public_License
+ * Dual licensed under the GPL and MIT licenses.
+ * http://en.wikipedia.org/wiki/MIT_License
+ * http://en.wikipedia.org/wiki/GNU_General_Public_License
  */
 
 if (typeof Object.create !== 'function') {
